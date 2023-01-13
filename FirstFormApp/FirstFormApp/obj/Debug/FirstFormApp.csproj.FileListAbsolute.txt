@@ -1,0 +1,10 @@
+C:\Users\Marcus\Documents\GitHub\ISIT310\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.csproj.AssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\ISIT310\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.Form1.resources
+C:\Users\Marcus\Documents\GitHub\ISIT310\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.Properties.Resources.resources
+C:\Users\Marcus\Documents\GitHub\ISIT310\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.csproj.GenerateResource.cache
+C:\Users\Marcus\Documents\GitHub\ISIT310\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Documents\GitHub\ISIT310\FirstFormApp\FirstFormApp\bin\Debug\FirstFormApp.exe.config
+C:\Users\Marcus\Documents\GitHub\ISIT310\FirstFormApp\FirstFormApp\bin\Debug\FirstFormApp.exe
+C:\Users\Marcus\Documents\GitHub\ISIT310\FirstFormApp\FirstFormApp\bin\Debug\FirstFormApp.pdb
+C:\Users\Marcus\Documents\GitHub\ISIT310\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.exe
+C:\Users\Marcus\Documents\GitHub\ISIT310\FirstFormApp\FirstFormApp\obj\Debug\FirstFormApp.pdb
