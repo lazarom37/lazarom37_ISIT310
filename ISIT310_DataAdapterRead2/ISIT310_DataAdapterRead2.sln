@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISIT310_DataAdapterRead2", "ISIT310_DataAdapterRead2\ISIT310_DataAdapterRead2.csproj", "{69398CE1-2277-4CDB-8A7D-D4A55BCFF51E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network", "Network\Network.csproj", "{65768F08-BEBB-466A-99C0-4DCAFCDB3B86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69398CE1-2277-4CDB-8A7D-D4A55BCFF51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69398CE1-2277-4CDB-8A7D-D4A55BCFF51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69398CE1-2277-4CDB-8A7D-D4A55BCFF51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69398CE1-2277-4CDB-8A7D-D4A55BCFF51E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65768F08-BEBB-466A-99C0-4DCAFCDB3B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65768F08-BEBB-466A-99C0-4DCAFCDB3B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65768F08-BEBB-466A-99C0-4DCAFCDB3B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65768F08-BEBB-466A-99C0-4DCAFCDB3B86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {909DCB3E-39CC-48B4-BDC4-DB54FF654A01}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BirdsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Bird">
+    <Key>
+      <PropertyRef Name="BirdID" />
+    </Key>
+    <Property Name="BirdID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="BirdCounts" Relationship="Self.FK_BirdCount_Bird1" FromRole="Bird" ToRole="BirdCount" />
+  </EntityType>
+  <EntityType Name="BirdCount">
+    <Key>
+      <PropertyRef Name="CountID" />
+    </Key>
+    <Property Name="CountID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RegionID" Type="String" MaxLength="5" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="BirderID" Type="Int32" Nullable="false" />
+    <Property Name="BirdID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CountDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Counted" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Bird" Relationship="Self.FK_BirdCount_Bird1" FromRole="BirdCount" ToRole="Bird" />
+  </EntityType>
+  <Association Name="FK_BirdCount_Bird1">
+    <End Role="Bird" Type="Self.Bird" Multiplicity="1" />
+    <End Role="BirdCount" Type="Self.BirdCount" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bird">
+        <PropertyRef Name="BirdID" />
+      </Principal>
+      <Dependent Role="BirdCount">
+        <PropertyRef Name="BirdID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BirdsEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Birds" EntityType="Self.Bird" />
+    <EntitySet Name="BirdCounts" EntityType="Self.BirdCount" />
+    <AssociationSet Name="FK_BirdCount_Bird1" Association="Self.FK_BirdCount_Bird1">
+      <End Role="Bird" EntitySet="Birds" />
+      <End Role="BirdCount" EntitySet="BirdCounts" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

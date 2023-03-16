@@ -1,0 +1,85 @@
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe.config
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.pdb
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csprojResolveAssemblyReference.cache
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.ProductDisplayForm.resources
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.Properties.Resources.resources
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.GenerateResource.Cache
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.exe
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.pdb
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.dll
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe.config
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.ProductDisplayForm.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.ProductDisplayForm.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.ProductDisplayForm.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.GenerateResource.Cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.ProductDisplayForm.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.GenerateResource.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.CopyComplete
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.pdb
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe.config
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.pdb
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.ProductDisplayForm.resources
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.Properties.Resources.resources
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.GenerateResource.cache
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.CopyComplete
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.exe
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe.config
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.exe
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAdapter-Writes-1.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAdapter-Writes-1\bin\Debug\DataAccessLibrary.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.AssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.ProductDisplayForm.resources
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter_Writes_1.Properties.Resources.resources
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.GenerateResource.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.csproj.CopyComplete
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.exe
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAdapter-Writes-1\obj\Debug\DataAdapter-Writes-1.pdb

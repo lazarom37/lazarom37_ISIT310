@@ -1,0 +1,39 @@
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+c:\users\kurt.friedrich\documents\visual studio 2015\Projects\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\A-Spring2016\AP210spr16\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Spring17\Prog210\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring-18\Module-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-4-DataAdapter-writes\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\kurt.friedrich\Downloads\DataAdapter-Writes-1\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\DataAdapter-Writes-1\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb

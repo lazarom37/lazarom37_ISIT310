@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="BirdsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Bird">
+          <Key>
+            <PropertyRef Name="BirdID" />
+          </Key>
+          <Property Name="BirdID" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Description" Type="nvarchar" MaxLength="200" Nullable="false" />
+        </EntityType>
+        <EntityType Name="BirdCount">
+          <Key>
+            <PropertyRef Name="CountID" />
+          </Key>
+          <Property Name="CountID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="RegionID" Type="nvarchar" MaxLength="5" Nullable="false" />
+          <Property Name="BirderID" Type="int" Nullable="false" />
+          <Property Name="BirdID" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="CountDate" Type="smalldatetime" Nullable="false" />
+          <Property Name="Counted" Type="int" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_BirdCount_Bird1">
+          <End Role="Bird" Type="Self.Bird" Multiplicity="1" />
+          <End Role="BirdCount" Type="Self.BirdCount" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bird">
+              <PropertyRef Name="BirdID" />
+            </Principal>
+            <Dependent Role="BirdCount">
+              <PropertyRef Name="BirdID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="BirdsModelStoreContainer">
+          <EntitySet Name="Bird" EntityType="Self.Bird" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="BirdCount" EntityType="Self.BirdCount" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_BirdCount_Bird1" Association="Self.FK_BirdCount_Bird1">
+            <End Role="Bird" EntitySet="Bird" />
+            <End Role="BirdCount" EntitySet="BirdCount" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="BirdsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Bird">
+          <Key>
+            <PropertyRef Name="BirdID" />
+          </Key>
+          <Property Name="BirdID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Description" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="BirdCounts" Relationship="Self.FK_BirdCount_Bird1" FromRole="Bird" ToRole="BirdCount" />
+        </EntityType>
+        <EntityType Name="BirdCount">
+          <Key>
+            <PropertyRef Name="CountID" />
+          </Key>
+          <Property Name="CountID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="RegionID" Type="String" MaxLength="5" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="BirderID" Type="Int32" Nullable="false" />
+          <Property Name="BirdID" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CountDate" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="Counted" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Bird" Relationship="Self.FK_BirdCount_Bird1" FromRole="BirdCount" ToRole="Bird" />
+        </EntityType>
+        <Association Name="FK_BirdCount_Bird1">
+          <End Role="Bird" Type="Self.Bird" Multiplicity="1" />
+          <End Role="BirdCount" Type="Self.BirdCount" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bird">
+              <PropertyRef Name="BirdID" />
+            </Principal>
+            <Dependent Role="BirdCount">
+              <PropertyRef Name="BirdID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="BirdsEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Birds" EntityType="Self.Bird" />
+          <EntitySet Name="BirdCounts" EntityType="Self.BirdCount" />
+          <AssociationSet Name="FK_BirdCount_Bird1" Association="Self.FK_BirdCount_Bird1">
+            <End Role="Bird" EntitySet="Birds" />
+            <End Role="BirdCount" EntitySet="BirdCounts" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="BirdsModelStoreContainer" CdmEntityContainer="BirdsEntities">
+          <EntitySetMapping Name="Birds">
+            <EntityTypeMapping TypeName="BirdsModel.Bird">
+              <MappingFragment StoreEntitySet="Bird">
+                <ScalarProperty Name="BirdID" ColumnName="BirdID" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="BirdCounts">
+            <EntityTypeMapping TypeName="BirdsModel.BirdCount">
+              <MappingFragment StoreEntitySet="BirdCount">
+                <ScalarProperty Name="CountID" ColumnName="CountID" />
+                <ScalarProperty Name="RegionID" ColumnName="RegionID" />
+                <ScalarProperty Name="BirderID" ColumnName="BirderID" />
+                <ScalarProperty Name="BirdID" ColumnName="BirdID" />
+                <ScalarProperty Name="CountDate" ColumnName="CountDate" />
+                <ScalarProperty Name="Counted" ColumnName="Counted" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="OrderModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="OrderModelContainer1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Orders" EntityType="OrderModel.Order" />
+    <EntitySet Name="Suppliers" EntityType="OrderModel.Supplier" />
+    <EntitySet Name="Parts" EntityType="OrderModel.Part" />
+    <AssociationSet Name="SupplierOrder" Association="OrderModel.SupplierOrder">
+      <End Role="Supplier" EntitySet="Suppliers" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+    <AssociationSet Name="PartOrder" Association="OrderModel.PartOrder">
+      <End Role="Part" EntitySet="Parts" />
+      <End Role="Order" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Order">
+    <Key>
+      <PropertyRef Name="OrderID" />
+    </Key>
+    <Property Name="OrderID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SupplierID" Type="Int32" Nullable="false" />
+    <Property Name="OrderDate" Type="DateTime" Nullable="false" />
+    <Property Name="PartID" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Supplier" Relationship="OrderModel.SupplierOrder" FromRole="Order" ToRole="Supplier" />
+    <NavigationProperty Name="Part" Relationship="OrderModel.PartOrder" FromRole="Order" ToRole="Part" />
+  </EntityType>
+  <EntityType Name="Supplier">
+    <Key>
+      <PropertyRef Name="SupplierID" />
+    </Key>
+    <Property Name="SupplierID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CompanyName" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="PhoneNumber" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Orders" Relationship="OrderModel.SupplierOrder" FromRole="Supplier" ToRole="Order" />
+  </EntityType>
+  <EntityType Name="Part">
+    <Key>
+      <PropertyRef Name="PartID" />
+    </Key>
+    <Property Name="PartID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PartName" Type="String" Nullable="false" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="Price" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Orders" Relationship="OrderModel.PartOrder" FromRole="Part" ToRole="Order" />
+  </EntityType>
+  <Association Name="SupplierOrder">
+    <End Type="OrderModel.Supplier" Role="Supplier" Multiplicity="1" />
+    <End Type="OrderModel.Order" Role="Order" Multiplicity="*" />
+  </Association>
+  <Association Name="PartOrder">
+    <End Type="OrderModel.Part" Role="Part" Multiplicity="1" />
+    <End Type="OrderModel.Order" Role="Order" Multiplicity="*" />
+  </Association>
+</Schema>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="OrderModelStoreContainer" CdmEntityContainer="OrderModelContainer1">
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="IsTypeOf(OrderModel.Order)">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="OrderID" ColumnName="OrderID" />
+          <ScalarProperty Name="SupplierID" ColumnName="SupplierID" />
+          <ScalarProperty Name="OrderDate" ColumnName="OrderDate" />
+          <ScalarProperty Name="PartID" ColumnName="PartID" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Suppliers">
+      <EntityTypeMapping TypeName="IsTypeOf(OrderModel.Supplier)">
+        <MappingFragment StoreEntitySet="Suppliers">
+          <ScalarProperty Name="SupplierID" ColumnName="SupplierID" />
+          <ScalarProperty Name="CompanyName" ColumnName="CompanyName" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Parts">
+      <EntityTypeMapping TypeName="IsTypeOf(OrderModel.Part)">
+        <MappingFragment StoreEntitySet="Parts">
+          <ScalarProperty Name="PartID" ColumnName="PartID" />
+          <ScalarProperty Name="PartName" ColumnName="PartName" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="SupplierOrder" TypeName="OrderModel.SupplierOrder" StoreEntitySet="Orders">
+      <EndProperty Name="Supplier">
+        <ScalarProperty Name="SupplierID" ColumnName="Supplier_SupplierID" />
+      </EndProperty>
+      <EndProperty Name="Order">
+        <ScalarProperty Name="OrderID" ColumnName="OrderID" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="PartOrder" TypeName="OrderModel.PartOrder" StoreEntitySet="Orders">
+      <EndProperty Name="Part">
+        <ScalarProperty Name="PartID" ColumnName="Part_PartID" />
+      </EndProperty>
+      <EndProperty Name="Order">
+        <ScalarProperty Name="OrderID" ColumnName="OrderID" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

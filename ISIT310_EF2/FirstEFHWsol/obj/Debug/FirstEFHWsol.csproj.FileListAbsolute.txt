@@ -1,0 +1,108 @@
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-11-EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\bin\Debug\FirstEFHWsol.exe.config
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-11-EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\bin\Debug\FirstEFHWsol.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-11-EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\bin\Debug\FirstEFHWsol.pdb
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-11-EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\bin\Debug\EntityFramework.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-11-EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-11-EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\bin\Debug\EntityFramework.xml
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-11-EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-11-EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.csprojAssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-11-EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-11-EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-11-EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.GenerateResource.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-11-EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-11-EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.CopyComplete
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-11-EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.exe
+C:\Users\kurt.friedrich\Desktop\AAA-Prog210-Spring2019\Mod-11-EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\013- EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\bin\Debug\FirstEFHWsol.exe.config
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\013- EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\bin\Debug\FirstEFHWsol.exe
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\013- EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\bin\Debug\FirstEFHWsol.pdb
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\013- EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\bin\Debug\EntityFramework.dll
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\013- EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\013- EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\bin\Debug\EntityFramework.xml
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\013- EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\013- EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\013- EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\013- EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\013- EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.GenerateResource.cache
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\013- EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\013- EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.CopyComplete
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\013- EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.exe
+C:\Users\kurt.friedrich\Desktop\AAB-ISIT 310-Winter2021\013- EntityFramework\Part-1\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\bin\Debug\FirstEFHWsol.exe.config
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\bin\Debug\FirstEFHWsol.exe
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\bin\Debug\FirstEFHWsol.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\bin\Debug\EntityFramework.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\bin\Debug\EntityFramework.xml
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.GenerateResource.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.CopyComplete
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.exe
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstHW2022\FirstEFHWsol\FirstEFHWsol\obj\Debug\FirstEFHWsol.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\bin\Debug\FirstEFHWsol.exe.config
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\bin\Debug\FirstEFHWsol.exe
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\bin\Debug\FirstEFHWsol.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\bin\Debug\EntityFramework.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\bin\Debug\EntityFramework.xml
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.GenerateResource.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.CopyComplete
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.exe
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\bin\Debug\FirstEFHWsol.exe.config
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\bin\Debug\FirstEFHWsol.exe
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\bin\Debug\FirstEFHWsol.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\bin\Debug\EntityFramework.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\bin\Debug\EntityFramework.xml
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.Form1.resources
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.Properties.Resources.resources
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.GenerateResource.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.CopyComplete
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.exe
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\013- EntityFramework\Part-1\2ndEF-HW-2023\FirstEFHWsol2023\FirstEFHWsol\obj\Debug\FirstEFHWsol.pdb
+C:\Users\Marcus\Downloads\FirstEFHWsol2023Problem\FirstEFHWsol\bin\Debug\FirstEFHWsol.exe.config
+C:\Users\Marcus\Downloads\FirstEFHWsol2023Problem\FirstEFHWsol\bin\Debug\FirstEFHWsol.exe
+C:\Users\Marcus\Downloads\FirstEFHWsol2023Problem\FirstEFHWsol\bin\Debug\FirstEFHWsol.pdb
+C:\Users\Marcus\Downloads\FirstEFHWsol2023Problem\FirstEFHWsol\bin\Debug\EntityFramework.dll
+C:\Users\Marcus\Downloads\FirstEFHWsol2023Problem\FirstEFHWsol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcus\Downloads\FirstEFHWsol2023Problem\FirstEFHWsol\bin\Debug\EntityFramework.xml
+C:\Users\Marcus\Downloads\FirstEFHWsol2023Problem\FirstEFHWsol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcus\Downloads\FirstEFHWsol2023Problem\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.AssemblyReference.cache
+C:\Users\Marcus\Downloads\FirstEFHWsol2023Problem\FirstEFHWsol\obj\Debug\FirstEFHWsol.Form1.resources
+C:\Users\Marcus\Downloads\FirstEFHWsol2023Problem\FirstEFHWsol\obj\Debug\FirstEFHWsol.Properties.Resources.resources
+C:\Users\Marcus\Downloads\FirstEFHWsol2023Problem\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.GenerateResource.cache
+C:\Users\Marcus\Downloads\FirstEFHWsol2023Problem\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Downloads\FirstEFHWsol2023Problem\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.CopyComplete
+C:\Users\Marcus\Downloads\FirstEFHWsol2023Problem\FirstEFHWsol\obj\Debug\FirstEFHWsol.exe
+C:\Users\Marcus\Downloads\FirstEFHWsol2023Problem\FirstEFHWsol\obj\Debug\FirstEFHWsol.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\ISIT310_EF2\FirstEFHWsol\bin\Debug\FirstEFHWsol.exe.config
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\ISIT310_EF2\FirstEFHWsol\bin\Debug\FirstEFHWsol.exe
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\ISIT310_EF2\FirstEFHWsol\bin\Debug\FirstEFHWsol.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\ISIT310_EF2\FirstEFHWsol\bin\Debug\EntityFramework.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\ISIT310_EF2\FirstEFHWsol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\ISIT310_EF2\FirstEFHWsol\bin\Debug\EntityFramework.xml
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\ISIT310_EF2\FirstEFHWsol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\ISIT310_EF2\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.AssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\ISIT310_EF2\FirstEFHWsol\obj\Debug\FirstEFHWsol.Form1.resources
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\ISIT310_EF2\FirstEFHWsol\obj\Debug\FirstEFHWsol.Properties.Resources.resources
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\ISIT310_EF2\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.GenerateResource.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\ISIT310_EF2\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\ISIT310_EF2\FirstEFHWsol\obj\Debug\FirstEFHWsol.csproj.CopyComplete
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\ISIT310_EF2\FirstEFHWsol\obj\Debug\FirstEFHWsol.exe
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT310\ISIT310_EF2\FirstEFHWsol\obj\Debug\FirstEFHWsol.pdb

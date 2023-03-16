@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BirdsModelStoreContainer" CdmEntityContainer="BirdsEntities">
+    <EntitySetMapping Name="Birds">
+      <EntityTypeMapping TypeName="BirdsModel.Bird">
+        <MappingFragment StoreEntitySet="Bird">
+          <ScalarProperty Name="BirdID" ColumnName="BirdID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BirdCounts">
+      <EntityTypeMapping TypeName="BirdsModel.BirdCount">
+        <MappingFragment StoreEntitySet="BirdCount">
+          <ScalarProperty Name="CountID" ColumnName="CountID" />
+          <ScalarProperty Name="RegionID" ColumnName="RegionID" />
+          <ScalarProperty Name="BirderID" ColumnName="BirderID" />
+          <ScalarProperty Name="BirdID" ColumnName="BirdID" />
+          <ScalarProperty Name="CountDate" ColumnName="CountDate" />
+          <ScalarProperty Name="Counted" ColumnName="Counted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Regions">
+      <EntityTypeMapping TypeName="BirdsModel.Region">
+        <MappingFragment StoreEntitySet="Region">
+          <ScalarProperty Name="RegionID" ColumnName="RegionID" />
+          <ScalarProperty Name="RegionName" ColumnName="RegionName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

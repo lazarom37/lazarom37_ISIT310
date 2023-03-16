@@ -1,0 +1,15 @@
+C:\Users\Marcus\source\repos\EF_FromModel\EF_FromModel\bin\Debug\EF_FromModel.exe.config
+C:\Users\Marcus\source\repos\EF_FromModel\EF_FromModel\bin\Debug\EF_FromModel.exe
+C:\Users\Marcus\source\repos\EF_FromModel\EF_FromModel\bin\Debug\EF_FromModel.pdb
+C:\Users\Marcus\source\repos\EF_FromModel\EF_FromModel\bin\Debug\EntityFramework.dll
+C:\Users\Marcus\source\repos\EF_FromModel\EF_FromModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcus\source\repos\EF_FromModel\EF_FromModel\bin\Debug\EntityFramework.xml
+C:\Users\Marcus\source\repos\EF_FromModel\EF_FromModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcus\source\repos\EF_FromModel\EF_FromModel\obj\Debug\EF_FromModel.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\EF_FromModel\EF_FromModel\obj\Debug\EF_FromModel.Form1.resources
+C:\Users\Marcus\source\repos\EF_FromModel\EF_FromModel\obj\Debug\EF_FromModel.Properties.Resources.resources
+C:\Users\Marcus\source\repos\EF_FromModel\EF_FromModel\obj\Debug\EF_FromModel.csproj.GenerateResource.cache
+C:\Users\Marcus\source\repos\EF_FromModel\EF_FromModel\obj\Debug\EF_FromModel.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\EF_FromModel\EF_FromModel\obj\Debug\EF_FromModel.csproj.CopyComplete
+C:\Users\Marcus\source\repos\EF_FromModel\EF_FromModel\obj\Debug\EF_FromModel.exe
+C:\Users\Marcus\source\repos\EF_FromModel\EF_FromModel\obj\Debug\EF_FromModel.pdb

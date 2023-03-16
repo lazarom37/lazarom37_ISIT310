@@ -1,0 +1,12 @@
+C:\Users\Marcus\source\repos\ISIT310_DataAdapterRead2\Network\bin\Debug\net5.0\Network.deps.json
+C:\Users\Marcus\source\repos\ISIT310_DataAdapterRead2\Network\bin\Debug\net5.0\Network.dll
+C:\Users\Marcus\source\repos\ISIT310_DataAdapterRead2\Network\bin\Debug\net5.0\ref\Network.dll
+C:\Users\Marcus\source\repos\ISIT310_DataAdapterRead2\Network\bin\Debug\net5.0\Network.pdb
+C:\Users\Marcus\source\repos\ISIT310_DataAdapterRead2\Network\obj\Debug\net5.0\Network.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\ISIT310_DataAdapterRead2\Network\obj\Debug\net5.0\Network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\ISIT310_DataAdapterRead2\Network\obj\Debug\net5.0\Network.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\ISIT310_DataAdapterRead2\Network\obj\Debug\net5.0\Network.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\ISIT310_DataAdapterRead2\Network\obj\Debug\net5.0\Network.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\ISIT310_DataAdapterRead2\Network\obj\Debug\net5.0\Network.dll
+C:\Users\Marcus\source\repos\ISIT310_DataAdapterRead2\Network\obj\Debug\net5.0\ref\Network.dll
+C:\Users\Marcus\source\repos\ISIT310_DataAdapterRead2\Network\obj\Debug\net5.0\Network.pdb

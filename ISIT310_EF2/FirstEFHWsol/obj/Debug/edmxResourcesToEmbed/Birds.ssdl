@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BirdsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Bird">
+    <Key>
+      <PropertyRef Name="BirdID" />
+    </Key>
+    <Property Name="BirdID" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="200" Nullable="false" />
+  </EntityType>
+  <EntityType Name="BirdCount">
+    <Key>
+      <PropertyRef Name="CountID" />
+    </Key>
+    <Property Name="CountID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="RegionID" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="BirderID" Type="int" Nullable="false" />
+    <Property Name="BirdID" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="CountDate" Type="smalldatetime" Nullable="false" />
+    <Property Name="Counted" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Region">
+    <Key>
+      <PropertyRef Name="RegionID" />
+    </Key>
+    <Property Name="RegionID" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="RegionName" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_BirdCount_Bird1">
+    <End Role="Bird" Type="Self.Bird" Multiplicity="1" />
+    <End Role="BirdCount" Type="Self.BirdCount" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Bird">
+        <PropertyRef Name="BirdID" />
+      </Principal>
+      <Dependent Role="BirdCount">
+        <PropertyRef Name="BirdID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BirdCount_Region1">
+    <End Role="Region" Type="Self.Region" Multiplicity="1" />
+    <End Role="BirdCount" Type="Self.BirdCount" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Region">
+        <PropertyRef Name="RegionID" />
+      </Principal>
+      <Dependent Role="BirdCount">
+        <PropertyRef Name="RegionID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BirdsModelStoreContainer">
+    <EntitySet Name="Bird" EntityType="Self.Bird" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BirdCount" EntityType="Self.BirdCount" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Region" EntityType="Self.Region" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_BirdCount_Bird1" Association="Self.FK_BirdCount_Bird1">
+      <End Role="Bird" EntitySet="Bird" />
+      <End Role="BirdCount" EntitySet="BirdCount" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BirdCount_Region1" Association="Self.FK_BirdCount_Region1">
+      <End Role="Region" EntitySet="Region" />
+      <End Role="BirdCount" EntitySet="BirdCount" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
