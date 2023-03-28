@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Video Game Backlog</title>
+    <link rel="stylesheet" type="text/css" href="css/site.css" />
+</head>
+<body>
+    <!-- The Backlog Itself -->
+    <h2 style="font-size: 64px" class="center">[ Your Video Game Backlog ]</h2>
+    <div class="mainList, center">
+
+        <table id="backlogtable">
+            <!-- js insertion -->
+        </table>
+    </div>
+    <div class="center">
+        <button id="showButton" type="button" onclick="updateBacklogDisplay()">Refresh List</button><br />
+        <button id="backupButton" type="button" onclick="backupButton()">Backup Data</button>
+        <button id="displayBackupButton" type="button" onclick="displayBackupButton()">Show Backed Up Data</button>
+    </div>
+    <br />
+    <p class="center">Actions</p>
+    <br />
+    <!-- Add New Genre -->
+    <div class="actions">
+        <table>
+            <tr>
+                <th style=" border: none; font-size: 32px">[ Add New Genre ]</th>
+            </tr>
+            <tr>
+                <th>Genre</th>
+            </tr>
+            <tr>
+                <th>
+                    <input type="text" id="newGenre" name="newGenre" placeholder="Genre..." />
+                    <button id="newGenreButton" type="button" onclick="addGenre()">Add</button>
+                </th>
+            </tr>
+        </table>
+    </div>
+    <!-- Add New Publisher -->
+
+    <div class="actions">
+        <table>
+            <tr>
+                <th style=" border: none; font-size: 32px">[ Add New Publisher ]</th>
+            </tr>
+            <tr>
+                <th>Country</th>
+                <th>Publisher</th>
+            </tr>
+            <tr>
+                <th>
+                    <input type="text" id="newCountry" name="newCountry" placeholder="Country..." />
+                </th>
+                <th>
+                    <input type="text" id="newPubName" name="newPubName" placeholder="Publisher..." />
+                    <button id="newPublisherButton" type="button" onclick="addPublisher()">Add</button>
+                </th>
+            </tr>
+        </table>
+    </div>
+    <!-- Add New Backlog Entry -->
+
+    <div class="actions">
+        <table>
+            <tr>
+                <th style=" border: none; font-size: 32px">[ Add New Backlog Entry ]</th>
+            </tr>
+            <tr id="Header">
+                <th>Title</th>
+                <th>Publisher</th>
+                <th>Platform</th>
+                <th>Genre</th>
+                <th>Finished?</th>
+            </tr>
+            <tr id="inputGame">
+                <th><input type="text" placeholder="Name of game" id="title" /></th>
+                <th>
+                    <select id="publisherList" name="genreLisr" placeholder="Select a company...">
+                        <!-- js insertion -->
+                    </select>
+                </th>
+                <th><input type="text" placeholder="Switch, PS5, XSX, PC..." id="platform" /></th>
+                <th>
+                    <select id="genreList" name="genreList" placeholder="Select a genre...">
+                        <!-- js insertion -->
+                    </select>
+                </th>
+                <th>
+                    <input type="button" value="Yes" onclick="addBacklog(true)" />
+                    <input type="button" value="No" onclick="addBacklog(false)" />
+                </th>
+            </tr>
+        </table>
+    </div>
+
+
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js"></script>
+    <script src="js/site.js"></script>
+    <p class="center">Created in 2023 by<br /> [ Marcus Lazaro ]</p>
+</body>
+</html>

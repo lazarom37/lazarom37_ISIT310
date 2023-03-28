@@ -1,0 +1,286 @@
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\appsettings.json
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.staticwebassets.runtime.json
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.exe
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.deps.json
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.runtimeconfig.json
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.dll
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.pdb
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.AssemblyInfoInputs.cache
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.AssemblyInfo.cs
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.RazorAssemblyInfo.cache
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.RazorAssemblyInfo.cs
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.ASPAPI-mongo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPAPI-mongo.props
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPAPI-mongo.props
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPAPI-mongo.props
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\bundle\ASPAPI-mongo.styles.css
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\projectbundle\ASPAPI-mongo.bundle.scp.css
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.dll
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\refint\ASPAPI-mongo.dll
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.pdb
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.genruntimeconfig.cache
+C:\Users\kurt.friedrich\Downloads\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ref\ASPAPI-mongo.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\appsettings.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.staticwebassets.runtime.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.exe
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.deps.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.runtimeconfig.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.AssemblyInfoInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.AssemblyInfo.cs
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.RazorAssemblyInfo.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.RazorAssemblyInfo.cs
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.ASPAPI-mongo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPAPI-mongo.props
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPAPI-mongo.props
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPAPI-mongo.props
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\bundle\ASPAPI-mongo.styles.css
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\projectbundle\ASPAPI-mongo.bundle.scp.css
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\refint\ASPAPI-mongo.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.genruntimeconfig.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo\ASPAPI-mongo\obj\Debug\net6.0\ref\ASPAPI-mongo.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\appsettings.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.staticwebassets.runtime.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.exe
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.deps.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.runtimeconfig.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.csproj.AssemblyReference.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.AssemblyInfoInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.AssemblyInfo.cs
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.csproj.CoreCompileInputs.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.RazorAssemblyInfo.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.RazorAssemblyInfo.cs
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.ASPAPI-mongo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPAPI-mongo.props
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPAPI-mongo.props
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPAPI-mongo.props
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\bundle\ASPAPI-mongo.styles.css
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\projectbundle\ASPAPI-mongo.bundle.scp.css
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\refint\ASPAPI-mongo.dll
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.pdb
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.genruntimeconfig.cache
+C:\Users\kurt.friedrich\Desktop\AAC-ISIT310-W23\Final\2023\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ref\ASPAPI-mongo.dll
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\appsettings.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.staticwebassets.runtime.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.exe
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.deps.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.runtimeconfig.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.dll
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.pdb
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.csproj.AssemblyReference.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.AssemblyInfoInputs.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.AssemblyInfo.cs
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.RazorAssemblyInfo.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.RazorAssemblyInfo.cs
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.ASPAPI-mongo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPAPI-mongo.props
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPAPI-mongo.props
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPAPI-mongo.props
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\bundle\ASPAPI-mongo.styles.css
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\projectbundle\ASPAPI-mongo.bundle.scp.css
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.dll
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\refint\ASPAPI-mongo.dll
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.pdb
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.genruntimeconfig.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ref\ASPAPI-mongo.dll
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\appsettings.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.staticwebassets.runtime.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.exe
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.deps.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.runtimeconfig.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.dll
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.pdb
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.csproj.AssemblyReference.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.AssemblyInfoInputs.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.AssemblyInfo.cs
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.RazorAssemblyInfo.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.RazorAssemblyInfo.cs
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.ASPAPI-mongo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPAPI-mongo.props
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPAPI-mongo.props
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPAPI-mongo.props
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\bundle\ASPAPI-mongo.styles.css
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\projectbundle\ASPAPI-mongo.bundle.scp.css
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.dll
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\refint\ASPAPI-mongo.dll
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.pdb
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.genruntimeconfig.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 - TEST VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ref\ASPAPI-mongo.dll
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\appsettings.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.staticwebassets.runtime.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.exe
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.deps.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.runtimeconfig.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.dll
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.pdb
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.csproj.AssemblyReference.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.AssemblyInfoInputs.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.AssemblyInfo.cs
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.RazorAssemblyInfo.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.RazorAssemblyInfo.cs
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.ASPAPI-mongo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPAPI-mongo.props
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPAPI-mongo.props
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPAPI-mongo.props
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\bundle\ASPAPI-mongo.styles.css
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\projectbundle\ASPAPI-mongo.bundle.scp.css
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.dll
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\refint\ASPAPI-mongo.dll
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.pdb
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.genruntimeconfig.cache
+C:\Users\Marcus\Downloads\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ref\ASPAPI-mongo.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\appsettings.json
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.staticwebassets.runtime.json
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.exe
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.deps.json
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.runtimeconfig.json
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ASPAPI-mongo.pdb
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.csproj.AssemblyReference.cache
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.AssemblyInfoInputs.cache
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.AssemblyInfo.cs
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.RazorAssemblyInfo.cache
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.RazorAssemblyInfo.cs
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.ASPAPI-mongo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.build.ASPAPI-mongo.props
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASPAPI-mongo.props
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASPAPI-mongo.props
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\bundle\ASPAPI-mongo.styles.css
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\scopedcss\projectbundle\ASPAPI-mongo.bundle.scp.css
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\refint\ASPAPI-mongo.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.pdb
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.genruntimeconfig.cache
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ref\ASPAPI-mongo.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\obj\Debug\net6.0\ASPAPI-mongo.csproj.CopyComplete
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\DnsClient.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\Snappier.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Marcus\Desktop\School\ISIT310\ASPAPI-mongo-V1 _MY_VERSION\ASPAPI-mongo-V1\ASPAPI-mongo\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
